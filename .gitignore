@@ -7,3 +7,6 @@ dist/*
 env/*
 musicnn.egg-info/*
 audio/more/*
+.DS_Store
+.idea/
+.idea/*
